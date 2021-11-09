@@ -1,4 +1,4 @@
-# BitirmeProject
+# KTÜ Mühendislik Fakültesi Bilgisayar Mühendisliği Bitirme Projesi
 
 Proje girdi olarak verilen tek şekilli bir geometri sorusunu analiz ederek çözüm adımlarını gerçekleştirir. 
 Fotoğrafı olan geometri sorusunun metin kısmındaki bilgileri ayırır ve sistemin kullanacağı bir 
