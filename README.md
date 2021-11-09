@@ -1,6 +1,3 @@
-# KTÜ Mühendislik Fakültesi Bilgisayar Mühendisliği Bitirme Projesi
+# KTÜ Mühendislik Fakültesi Bilgisayar Mühendisliği Tasarım-Bitirme Projesi
 
-Proje girdi olarak verilen tek şekilli bir geometri sorusunu analiz ederek çözüm adımlarını gerçekleştirir. 
-Fotoğrafı olan geometri sorusunun metin kısmındaki bilgileri ayırır ve sistemin kullanacağı bir 
-veri oluşturur. Bu verileri kullanarak soru çözümünü gerçekleştirir. Gerçekleşmiş olan çözümü 
-kullanıcıya sunar.
+Proje, girdi olarak verilen tek şekilli bir geometri sorusundan şeklin ve metnin yerini bulur; şekil için şekil tahmini edip ekrana yazdırır, metin için ise metni analiz edip soruya çözüm oluşturur çözümü kullanıcıya sunar.
